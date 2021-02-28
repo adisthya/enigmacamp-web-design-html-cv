@@ -13,6 +13,7 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 ## Keterangan
 
 *Repository* ini terdiri dari:
+
 - `readme.md`
 - `.pretterrc`
 - `index.html`
@@ -26,7 +27,7 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 ## Referensi
 
 <a href="https://premium.enigmacamp.com" title="EnigmaCamp IT Bootcamp - ViCa Premium">
-  <img src="https://premium.enigmacamp.com/assets/img/enigmacamp-white.png" height="50" alt="EnigmaCamp IT Bootcamp - ViCa Premium" />
+  <img src="https://premium.enigmacamp.com/assets/img/enigmacamp-white.png" alt="EnigmaCamp IT Bootcamp - ViCa Premium" style="background-color:#23418f; padding: 10px; height: 30px" />
 </a>&emsp;
 <a href="https://getboostrap.com" title="Twitter Bootstrap" rel="nofollow">
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="50" alt="Twitter Bootstrap" />
