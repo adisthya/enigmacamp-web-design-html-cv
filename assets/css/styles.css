@@ -1,19 +1,23 @@
+body {
+  background-color: #fff !important;
+}
+
 .logo {
-    width: 64px;
+  width: 64px;
 }
 .blue-enigma {
-    background-color: #233D90;
+  background-color: #233d90;
 }
 .table-header {
-    height: 100px;
+  height: 100px;
 }
 .footer {
-    height: 40px;
+  height: 40px;
 }
-.copyright{
-    margin: auto;
+.copyright {
+  margin: auto;
 }
 .content-area {
-    max-width: 70%;
-    margin: auto;
+  max-width: 70%;
+  margin: auto;
 }
