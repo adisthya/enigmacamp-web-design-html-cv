@@ -26,6 +26,9 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 
 ## Referensi
 
+<a href="https://premium.enigmacamp.com" title="EnigmaCamp ViCa Premium">
+  <img src="https://www.enigmacamp.com/portal/assets/img/new-logo/logo-enigmacamp-gkhebat-color.png" height="50" alt="EnigmaCamp ViCa Premium" />
+</a>&emsp;
 <a href="https://getboostrap.com" title="Twitter Bootstrap" rel="nofollow">
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="50" alt="Twitter Bootstrap" />
 </a>&emsp;
