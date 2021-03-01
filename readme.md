@@ -18,10 +18,11 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 - `.prettierrc`
 - `index.html`
 - direktori `assets`
+  - `resume-screenshot.png`
   - direktori `css`
     - `styles.css`
   - direktori `images`
-    - `photo_profile.jpeg`
+    - `profile.jpg`
     - `enigmacamp.png`
 
 ## Tampilan Antarmuka
