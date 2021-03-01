@@ -24,6 +24,10 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
     - `photo_profile.jpeg`
     - `enigmacamp.png`
 
+## Tampilan Antarmuka
+
+![Resume](assets/resume-screenshot.png)
+
 ## Referensi
 
 <a href="https://premium.enigmacamp.com" title="EnigmaCamp ViCa Premium">
