@@ -1,10 +1,10 @@
 # EnigmaCamp - Berkenalan Dengan Programming Dan Web Design
 
-Repository ini merupakan repository untuk studi kasus materi berkenalan dengan *programming* dan *web design*, yaitu pembuatan desain HTML personal CV sederhana dengan Bootstrap.
+*Repository* ini berisikan *source code* studi kasus materi berkenalan dengan *programming* dan *web design*, yaitu pembuatan desain HTML personal CV sederhana dengan Bootstrap.
 
 ## Memulai
 
-Untuk memulai, `clone` terlebih dahulu *repository* ini atau unduh berkas `zip` secara langsung dari halaman ini.
+Untuk memulai, `clone` terlebih dahulu *repository* ini atau [unduh berkas](https://github.com/adisthya/enigmacamp-web-design-html-cv/archive/master.zip) `zip` secara langsung dari halaman ini.
 
 ```language
 git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
@@ -15,7 +15,7 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 *Repository* ini terdiri dari:
 
 - `readme.md`
-- `.pretterrc`
+- `.prettierrc`
 - `index.html`
 - direktori `assets`
   - direktori `css`
